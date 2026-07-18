@@ -6,6 +6,8 @@
 [![Status](https://img.shields.io/badge/Status-Learning%20Phase-yellow.svg)](https://github.com/hexa/do-you-love-me)
 [![Fun](https://img.shields.io/badge/Fun-100%25-red.svg)](https://github.com/hexa/do-you-love-me)
 
+**🌐 Portfolio**: [hexa.sec](https://your-portfolio-link.com) 
+
 ## 🎯 About This Project
 
 **This is my FIRST ORIGINAL C PROGRAM!** 
