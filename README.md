@@ -1,11 +1,9 @@
-markdown
-
 # 💔 DO YOU LOVE ME? - My First C Program
 
 [![Made with C](https://img.shields.io/badge/Made%20with-C-blue.svg)](https://gcc.gnu.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Learning%20Phase-yellow.svg)](https://github.com/yourusername/do-you-love-me)
-[![Fun](https://img.shields.io/badge/Fun-100%25-red.svg)](https://github.com/yourusername/do-you-love-me)
+[![Status](https://img.shields.io/badge/Status-Learning%20Phase-yellow.svg)](https://github.com/hexa/do-you-love-me)
+[![Fun](https://img.shields.io/badge/Fun-100%25-red.svg)](https://github.com/hexa/do-you-love-me)
 
 ## 🎯 About This Project
 
@@ -51,7 +49,7 @@ text
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/do-you-love-me.git
+git clone https://github.com/hexa/do-you-love-me.git
 
 # 2. Navigate to the directory
 cd do-you-love-me
@@ -258,7 +256,7 @@ This program is a JOKE/PARODY made for educational and entertainment purposes.
 Please use responsibly and with respect for all cultures and religions.
 🤝 Connect With Me
 
-    GitHub: YourUsername
+    GitHub: hexa
 
     LinkedIn: Your Name
 
@@ -397,43 +395,3 @@ Made with ❤️, 💻, and lots of coffee
 "The best way to learn is to build."
 
 ⭐ Star this repo if you believe in beginner programmers! ⭐
-text
-
-
----
-
-## 📋 Quick Copy Checklist
-
-Before you paste, fill in these fields:
-
-    [YourUsername] → Your GitHub username
-
-    [Your Name] → Your real name
-
-    [YourHandle] → Your social media handle
-
-    [yourwebsite.com] → Your website/portfolio (optional)
-
-    [2026] → Current year
-
-    [Your Name] → In the license section
-
-text
-
-
----
-
-## 🎨 Bonus: Add a Logo Banner
-
-You can also add an ASCII art banner at the top:
-
-```markdown
-<!-- ASCII Art Banner -->
-
-██╗ ██╗██╗ ██╗██╗ ██╗██╗ ██╗██╗ ██╗██╗
-██║ ██║╚██╗ ██╔╝╚██╗██╔╝██║ ██║██║ ██║██║
-███████║ ╚████╔╝ ╚███╔╝ ███████║███████║██║
-██╔══██║ ╚██╔╝ ██╔██╗ ██╔══██║██╔══██║██║
-██║ ██║ ██║ ██╔╝ ██╗██║ ██║██║ ██║██║
-╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝
-
