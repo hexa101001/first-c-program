@@ -84,7 +84,7 @@ DO YOU LOVE ME?
 (Y/N): N
 Fuck you witch
 YOU GONNA DIE BABY  ]:)
-ALLAH HU AKBAR 10💣 9💣 8💣 7💣 6💣 5💣 4💣 3💣 2💣 1💣
+💣 GET READY 💣 10💣 9💣 8💣 7💣 6💣 5💣 4💣 3💣 2💣 1💣
 BOOOOOOOOOOM💥
 Checking if she is alive
 Searching / [SPINNING] 
@@ -386,9 +386,6 @@ A: No! It's a joke/learning project.
 
 Q: Can I use this in my portfolio?
 A: For learning purposes, yes! Shows you can write original code.
-
-Q: Why "Allahu Akbar"?
-A: It's used humorously as a meme. No offense intended.
 
 Q: Will this actually hack anything?
 A: No! It's just a fun C program.
