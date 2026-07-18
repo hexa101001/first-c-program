@@ -35,8 +35,7 @@ fflush(stdout);
 
 sleep(1);
 
-printf("ALLAH HU AKBAR ");
-
+printf("GET READY ");
 for (int i =10; i >=1; i--)
 {
     printf("%d💣\n", i);
